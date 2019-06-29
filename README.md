@@ -1,4 +1,4 @@
-# Simple Apps for record your transaction
+# Simple Apps to record your transaction
 ![](https://img.shields.io/badge/Code%20Style-Standard-yellow.svg)
 ![](https://img.shields.io/badge/Dependencies-PHP-green.svg)
 ![](https://img.shields.io/badge/License-KHsoft-yellowgreen.svg)
