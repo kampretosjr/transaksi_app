@@ -15,4 +15,5 @@
 ### Minnus
 ```
 -chart nya belom bisa di pakai hehe
+-akun login nya ID:jaja PW:123
 ```
