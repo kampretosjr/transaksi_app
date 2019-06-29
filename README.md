@@ -9,7 +9,7 @@
 
 ### Database
 ```
-- Export sql ke database kalian dengan nama db transaksi
+- Export sql ke database kalian dengan nama db_transaksi
 ```
 
 ### Minnus
