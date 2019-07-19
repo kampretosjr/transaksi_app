@@ -8,6 +8,9 @@
 - clone this repo and paste it to your htdocs
 - you can set database ,folder and etc configurtaion in general_controller.php
 
+## Free template from
+      https://wrappixel.com/demos/free-admin-templates/matrix-admin/index.html
+
 
 ## Documentation
       kategory
