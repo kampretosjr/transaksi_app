@@ -5,15 +5,27 @@
 
 
 ## Getting started
-- Tinggal di clone atau download aja bos ,terus taro di htdocs atau mana aja sesuka kalian
+- clone this repo and paste it to your htdocs
+- you can set database ,folder and etc configurtaion in general_controller.php
 
-### Database
-```
-- Export sql ke database kalian dengan nama db_transaksi
-```
 
-### Minnus
-```
--chart nya belom bisa di pakai hehe
--akun login nya ID:jaja PW:123
-```
+## Documentation
+      kategory
+![alt text](https://raw.githubusercontent.com/kampretosjr/transaksi_app/master/gambar/kategori.jpg)
+     
+     login page
+![alt text](https://raw.githubusercontent.com/kampretosjr/transaksi_app/master/gambar/login.jpg )
+
+      modal add
+![alt text](https://raw.githubusercontent.com/kampretosjr/transaksi_app/master/gambar/modal%20add.jpg)
+
+      modal editt
+![alt text](https://raw.githubusercontent.com/kampretosjr/transaksi_app/master/gambar/modal%20edit.jpg)
+
+      user info
+![alt text](https://raw.githubusercontent.com/kampretosjr/transaksi_app/master/gambar/user%20info.jpg)
+
+      transaksi
+![alt text](https://raw.githubusercontent.com/kampretosjr/transaksi_app/master/gambar/transaksi.jpg)
+
+
